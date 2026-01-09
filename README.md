@@ -66,7 +66,7 @@ In this project, Microsoft Azure Management Groups will be used to observe and m
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/4YpQWKr.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/4YpQWKr.png" height="50%" width="50%" /></td>
     <td><img src="https://imgur.com/o5EmVoN.png" height="100%" width="100%" /></td>
   </tr>
 </table>
